@@ -14,6 +14,7 @@ Download, make executable and run with these lines :
     mv 3proxyinstaller.sh 3p.sh
     chmod +x 3p.sh
     ./3p.sh
+    /etc/init.d/3proxyinit start
 
 After install : CHANGE THE BLOODY DEFAULT USERNAME AND PASSWORD !!! 
 
